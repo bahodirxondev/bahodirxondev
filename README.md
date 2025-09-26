@@ -1,59 +1,58 @@
 # 👋 Hi, I'm Bahodir Bahramov
 
-🎯 **Kasbiy maqsad:** Future AyTishnik bo'lish  
+🎯 **Kasbiy maqsad:** Future IT Person 
 
 ---
 
 ## 🛠️ Skills
 - **Frontend:** HTML, CSS, SCSS, Tailwind CSS, Bootstrap 5, JavaScript, React JS  
 - **Design Tools:** Figma, Adobe Photoshop, Adobe Illustrator  
-- **Other:** Video editing, Mobilografiya, Office dasturlari  
+- **Other:** Video editing, Mobilography, Office programs  
 - **Languages:** English (IELTS)  
 
 ---
 
 ## 🎓 Education
-- Hozirda 30-son maktab o‘quvchisi  
+- Now student of 30th school
 - **DATA Education Station**:  
-  - Web-dasturlash Kids  
-  - Grafik Dizayn (Grant)  
-  - Frontend Web Dasturlash  
+  - Web-programming Kids  
+  - Graphic Design (Grant)  
+  - Frontend Web Development  
   - Data Analyts (Grant)  
 - **Sertifikatlar:**  
-  - 3 ta DATA sertifikati  
+  - 3 certificates form DATA Learning Centre  
   - Meta Frontend Developer (Professional Certificate)  
-  - Coursera – 2 ta sertifikat  
-  - IT Park Foundation sertifikati  
-  - Cyberlock – Kiberxavfsizlik bo‘yicha sertifikat  
-  - IT-Study – Web-dizayn bo‘yicha sertifikat  
-  - + boshqa sertifikatlar  
+  - 2 certificates from Coursera  
+  - IT Park Foundation certificate  
+  - Cyberlock – Cybersecurity certificate 
+  - IT-Study – Web-Design Certificate  
+  - + e.t.c certificates 
 
 ---
 
 ## 🚀 Projects
-- **Convex Website** – shaxsiy loyiha  
-- **Online Shop** – maishiy texnikalar do‘koni  
-- **Portfolio Website** – [Mening Portfolio Saytim](https://portfolio-bahodir.vercel.app)  
+- **Convex Website** – online magazine   
+- **Portfolio Website** – [My Portfolio Website](https://portfolio-bahodir.vercel.app)  
 - **Design Works**:  
-  - 2 ta logo (Photoshop)  
-  - SMD posterlar  
-  - YouTube banner, avatar, thumbnail  
-- **Video Editing**: YouTube videolari montaj  
+  - 2 logos (did in Photoshop app)  
+  - SMD posters 
+  - YouTube banner, logo, thumbnail  
+- **Video Editing**: Video editing  
 
 ---
 
 ## 💼 Experience
-- **Frontend Development** – 1 yil tajriba  
-- **Graphic Design** – 2 oy tajriba  
-- **Mobilografiya & Video Editing** – amaliy tajriba  
-- **Office Software** – yaxshi darajada  
+- **Frontend Development** – 1 year experience 
+- **Graphic Design** – 2 months experience 
+- **Mobilografiya & Video Editing** – practice experince  
+- **Office Software** – best level  
 
 ---
 
 ## 📫 Contact
 - 📧 Email: **bahodirxonbahramov@gmail.com**  
 - 🖥️ GitHub: [bahodirxondev](https://github.com/bahodirxondev)  
-- 🌐 Portfolio: [portfoplio-bahodir.vercel.app](https://portfolio-bahodir.vercel.app)  
+- 🌐 Portfolio: [portfolio-bahodir.vercel.app](https://portfolio-bahodir.vercel.app)  
 - 💬 Telegram: [@bahodirbahramov](https://t.me/bahodirbahramov)  
 
 ---
